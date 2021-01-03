@@ -19,8 +19,5 @@
     "exporter",
     "webgl",
     "es6"
-  ],
-  "peerDependencies": {
-    "three": ">=0.97.0"
-  }
+  ]
 }
